@@ -1,5 +1,8 @@
 # APIs-Penetration-Testing
 
+- Academies
+
+
 
 ## Welcome
 
@@ -12,3 +15,10 @@
 - Discord
 - Website
 - LinkedIn
+
+
+
+### Articles
+
+- https://community.turgensec.com/finding-hidden-api-keys-how-to-use-them/
+- 
